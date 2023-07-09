@@ -2,6 +2,7 @@
 title: "Prediction of Ankle Dorsiflexion Moment by Combined Ultrasound Sonography and Electromyography"
 collection: publications
 permalink: /publication/2020-01-01-paper-title-number-4
+excerpt: ''
 date: 2020-01-01
 venue: 'IEEE Transactions on Neural Systems and Rehabilitation Engineering'
 paperurl: 'https://ieeexplore-ieee-org.prox.lib.ncsu.edu/abstract/document/8901165'
