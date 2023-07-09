@@ -1,20 +1,16 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2018-spring-teaching-1
+venue: "University of Pittsburgh, Department of Mechanical Engineering"
+date: 01/2018 - 05/2018
+location: "Pittsburgh, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+MEMS 1015: Rigid Body Dynamics (Spring 2018, 120 students)
 
-Heading 1
-======
+- Grade homework every week and grade midterm exam
 
-Heading 2
-======
+- Hold office hours to address students’ questions
 
-Heading 3
-======
