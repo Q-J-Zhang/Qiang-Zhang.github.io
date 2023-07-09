@@ -2,19 +2,20 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2017-fall-teaching-1
+venue: "University of Pittsburgh, Department of Mechanical Engineering"
+date: 08/2017 - 12/2017
+location: "Pittsburgh, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+MEMS 1042: Mechanical Measurements 2 (Fall 2017, 60 students)
 ======
 
-Heading 2
+Teach and guide students to perform dynamics/control-related experiments and record data 
 ======
 
-Heading 3
+Review students’ reports for each experiment
+======
+
+Hold office hours to address students’ questions
 ======
