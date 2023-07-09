@@ -1,7 +1,7 @@
 ---
 title: "Compliant joint for biped robot considering energy consumption optimization"
 collection: publications
-permalink: /publication/2016-10-01-paper-title-number-1
+permalink: /publication/2015-11-01-paper-title-number-1
 excerpt: ''
 date: 2015/11
 venue: 'Journal 1'
