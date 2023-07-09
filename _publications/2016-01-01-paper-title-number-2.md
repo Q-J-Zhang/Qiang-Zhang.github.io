@@ -5,7 +5,7 @@ permalink: /publication/2016-01-01-paper-title-number-2
 excerpt: ''
 date: 2016/01
 venue: 'ROBOT (In Chinese)'
-paperurl: 'https://www.researchgate.net/publication/290300423_Compliant_joint_for_biped_robot_considering_energy_consumption_optimization'
+paperurl: 'https://arxiv.org/abs/2208.07157'
 citation: 'Y. Wang, Q. Zhang, and X. H. Xiao*, “Trajectory Tracking Control of the Bionic Joint Actuated by Pneumatic Artificial Muscle Based on Robust Modeling,” ROBOT, 2016, 38(2): 248-256.'
 ---
 Y. Wang, Q. Zhang, and X. H. Xiao*, “Trajectory Tracking Control of the Bionic Joint Actuated by Pneumatic Artificial Muscle Based on Robust Modeling,” ROBOT, 2016, 38(2): 248-256. (In Chinese)
