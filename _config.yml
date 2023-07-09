@@ -14,7 +14,7 @@ description              : &description "Assistant Professor in the Department o
 url                      : "https://q-j-zhang.github.io/Qiang-Zhang.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://q-j-zhang.github.io/Qiang-Zhang.github.io/"
-teaser                   :  "PageImage.jpg"
+teaser                   : "PageImage.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
