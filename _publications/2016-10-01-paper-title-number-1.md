@@ -1,9 +1,9 @@
 ---
-title: "Compliant joint for biped robot considering energy consumption optimization Number 1"
+title: "Compliant joint for biped robot considering energy consumption optimization"
 collection: publications
 permalink: /publication/2016-10-01-paper-title-number-1
 excerpt: ''
-date: 2016-10-01
+date: 2016
 venue: 'Journal 1'
 paperurl: 'https://www.researchgate.net/publication/290300423_Compliant_joint_for_biped_robot_considering_energy_consumption_optimization'
 ---
