@@ -2,6 +2,7 @@
 title: "Modeling and control of a cable-driven rotary series elastic actuator for an upper limb rehabilitation robot"
 collection: publications
 permalink: /publication/2020-02-01-paper-title-number-3
+excerpt: ''
 date: 2020-02-01
 venue: 'Frontiers in Neurorobotics'
 paperurl: 'https://www.frontiersin.org/articles/10.3389/fnbot.2020.00013/full'
