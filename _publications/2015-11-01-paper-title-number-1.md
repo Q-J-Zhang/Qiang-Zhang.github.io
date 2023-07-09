@@ -6,6 +6,7 @@ excerpt: ''
 date: 2015/11
 venue: 'Journal of Central South University (In Chinese)'
 paperurl: 'https://www.researchgate.net/publication/290300423_Compliant_joint_for_biped_robot_considering_energy_consumption_optimization'
+citation: 'Q. Zhang, X. H. Xiao*, Y. Wang, et al, “Compliant joint for biped robot considering energy consumption optimization”, Journal of Central South University, 2015, 46(11): 4070-4076.'
 ---
 Q. Zhang, X. H. Xiao*, Y. Wang, et al, “Compliant joint for biped robot considering energy consumption optimization”, Journal of Central South University, 2015, 46(11): 4070-4076. (In Chinese)
 
