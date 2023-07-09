@@ -16,7 +16,8 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/"CV_Qiang Zhang_05282023.pdf"
+    # url: /cv/
+    url: /files/CV_Qiang Zhang_05282023.pdf
     
   - title: "Guide"
     url: /markdown/
