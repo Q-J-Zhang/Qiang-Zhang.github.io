@@ -2,7 +2,6 @@
 title: "Compliant joint for biped robot considering energy consumption optimization"
 collection: publications
 permalink: /publication/2015-11-01-paper-title-number-1
-excerpt: ''
 date: 2015/11
 venue: 'Journal of Central South University (In Chinese)'
 paperurl: 'https://www.researchgate.net/publication/290300423_Compliant_joint_for_biped_robot_considering_energy_consumption_optimization'
