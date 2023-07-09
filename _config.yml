@@ -10,11 +10,11 @@ locale                   : "en-US"
 title                    : "Qiang Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Qiang Zhang"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Assistant Professor in the Department of Mechanical Engineering at the University of Alabama"
+url                      : "https://q-j-zhang.github.io/Qiang-Zhang.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "https://q-j-zhang.github.io/Qiang-Zhang.github.io/"
+teaser                   :  "PageImage.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
