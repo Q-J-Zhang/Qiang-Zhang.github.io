@@ -1,5 +1,5 @@
 ---
-title: "Compliant joint for biped robot considering energy consumption optimization"
+title: "Trajectory Tracking Control of the Bionic Joint Actuated by Pneumatic Artificial Muscle Based on Robust Modeling"
 collection: publications
 permalink: /publication/2016-01-01-paper-title-number-2
 excerpt: ''
